@@ -1,0 +1,36 @@
+{
+  "name": "rn-custom-action-sheet",
+  "version": "1.0.0",
+  "description": "Custom action sheet package made with only inbuilt components of React and React Native.Tried to make same as default action sheet from iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowClone26/rn-custom-action-sheet.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Native",
+    "Custom",
+    "Custom",
+    "Action",
+    "Sheet",
+    "Action",
+    "Sheet",
+    "Android",
+    "iOS"
+  ],
+  "author": "Aditya Thummar (aka shadowclone26)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadowClone26/rn-custom-action-sheet/issues"
+  },
+  "homepage": "https://github.com/ShadowClone26/rn-custom-action-sheet#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4"
+  }
+}
